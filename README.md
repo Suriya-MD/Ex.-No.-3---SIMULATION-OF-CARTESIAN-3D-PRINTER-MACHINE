@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+# Ex. No:5  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
 ## AIM:
@@ -60,8 +60,10 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![image](https://github.com/Suriya-MD/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147120571/136f14d7-90aa-4550-bdf5-f8222b9c8f35)
+
+### Name: SURIYA M
+### Register Number: 212223110055
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
